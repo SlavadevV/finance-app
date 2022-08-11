@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 75vw;
+    color: white;
+    margin-left: 160px;
+
+}
